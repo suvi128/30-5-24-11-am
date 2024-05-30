@@ -8,7 +8,7 @@ num = 29
 # define a flag variable
 flag = False
 
-if num == 1:
+if num == 3:
     print(num, "is not a prime number")
 elif num > 1:
     # check for factors
